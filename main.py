@@ -250,7 +250,7 @@ def app():
 			df['Analysis'] = df['Polarity'].apply(getAnalysis)
 			return df
 
-		if st.button("Show Data"):
+		if st.button("Work 🎲"):
 
 			st.success("Working 🛠")
 
