@@ -7,9 +7,9 @@ Sentwent Main is an powerful analyzing web application powered by Machine Learni
 1.Analyze the tweets of your favourite Personalities
 
 This tool performs the following tasks :
-1. Fetches the 5 most recent tweets from the given twitter handel
-2. Generates a Word Cloud
-3. Performs Sentiment Analysis a displays it in form of a Bar Graph
+
+1. Generates a Word Cloud
+2. Performs Sentiment Analysis a displays it in form of a Bar Graph
 
 2.This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks
 Converts it into a DataFrame
@@ -37,4 +37,4 @@ Streamlit documentation: https://docs.streamlit.io/en/latest/
 
 pip install streamlit
 
-& to run it on local host : streamlit run myfile.py
+& to run it on local host : streamlit run main.py
