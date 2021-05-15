@@ -1,8 +1,8 @@
-# Tweet-Analyzer
+# SentWent Main
 
 Web App Link : 
 
-This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
+Sentwent Main is an powerful analyzing web application powered by Machine Learning Algorithms. 
 
 1.Analyze the tweets of your favourite Personalities
 
