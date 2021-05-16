@@ -4,7 +4,7 @@ Web App Link :
 
 Sentwent Main is an powerful analyzing web application powered by Machine Learning Algorithms. 
 
-1.Analyze the tweets of your favourite Personalities
+1.Analyze the tweets of anyone.
 
 This tool performs the following tasks :
 
@@ -14,7 +14,7 @@ This tool performs the following tasks :
 2.This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks
 Converts it into a DataFrame
 
-Cleans the text
+### Cleans the text
 1. Analyzes Subjectivity of tweets and adds an additional column for it
 2. Analyzes Polarity of tweets and adds an additional column for it
 3. Analyzes Sentiments of tweets and adds an additional column for it
@@ -24,9 +24,8 @@ This respository contains all the files for end to end model building and deploy
 
 Procfile : To generate command to run the app
 
-Tweet_Analyzer.ipynb : Model building File
+Sentiment_Analysis_.ipynb : Model building File
 
-Twitter Data : File created after every query on the web app
 
 Requirements.txt: Requirement file
 
