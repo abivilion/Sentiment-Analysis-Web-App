@@ -1,0 +1,14 @@
+ipykernel
+ipython
+matplotlib
+nltk
+numpy
+pandas
+scipy
+seaborn
+streamlit
+textblob
+tweepy
+wordcloud
+regex
+pillow
