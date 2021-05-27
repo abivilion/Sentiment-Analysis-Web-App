@@ -11,10 +11,10 @@ import seaborn as sns
 
 
 
-apiKey = "X9H28AREvH3BoJojxrffOnY6l"
-apiSecret = "h8AZAWLDLJDDp1gV4TmVcvGwBPGvR70JLJHeX0Stdpbqz4793g"
-accessToken = "1251571335769108480-6XV5VbQtt2WqpUVGf1zvRSIe5B8Thj"
-accessTokenSecret = "XFBfu2OevVXluKukHy2ySRKdNkp75H8RZuUKyVJXq7Rjo"
+apiKey = "Your Api Key of Twitter Dev App"
+apiSecret = "Your Api secret of Twitter Dev App"
+accessToken = "Your Access secret of Twitter Dev App"
+accessTokenSecret = "Your Access Token secret of Twitter Dev App"
 
 
 #Create the authentication object
