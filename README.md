@@ -40,4 +40,4 @@ Streamlit documentation: https://docs.streamlit.io/en/latest/
 
 pip install streamlit
 
-& to run it on local host : streamlit run main.py
+& to run it on local host : streamlit run mainapp.py
