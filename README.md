@@ -1,7 +1,5 @@
 # SentWent Main
 
-Web App Link : 
-
 Sentwent Main is an powerful analyzing web application powered by Machine Learning Algorithms. 
 
 1.Analyze the tweets of anyone.
@@ -30,6 +28,12 @@ Sentiment_Analysis_.ipynb : Model building File
 Requirements.txt: Requirement file
 
 setup.sh : predefined file for streamlite on heroku
+
+
+## NOTE
+Anyone running the mainapp.py should have Access Tokens,Key Secrets,API key and authentication.(Twitter Developer Authentication).
+
+
 
 This app is created on a tool called Streamlit which saves you from the headache of front-end devlopment ,you can install it by:
 Streamlit documentation: https://docs.streamlit.io/en/latest/
